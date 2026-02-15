@@ -21,16 +21,15 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
+This was made, on Feb 15 when applying for Operations Analyst, in Fort Worth Texas, by Svenn Mivedor, this dashboard is for  Trade Support and Execution Oversight: Collaborate with traders to support trade execution by ensuring proper allocation, clearing, settlement and post-trade life cycle processes. Address operational issues related to trade mismatches or settlement failures with counterparties. Spearhead the maintenance and enhancement of our Order Management System (OMS), ensuring accuracy in trade bookings and security setups.
 
-To learn more about Next.js, take a look at the following resources:
+Portfolio Finance: Manage financing relationships with prime brokers. Oversee inventory and collateral optimization efforts to minimize portfolio costs, maximize returns, mitigate risk and ensure efficient capital usage.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Valuation Control: Investigate and resolve PnL discrepancies. Provide detailed explanations of PnL drivers to the fund portfolio management and investments teams.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Strategic Collaboration & Process Improvement: Engage with internal and external partners to streamline operations, mitigate exceptions, and drive long-term strategic projects. Champion continuous improvement initiatives to optimize workflows and introduce new efficiencies.
 
-## Deploy on Vercel
+Regulatory & Compliance Support: Play an instrumental role in regulatory filings, including Form PF, and ensure compliance with KYC protocols. Actively contribute to the establishment of new funds/accounts in collaboration with legal teams.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+to show that I can think in terms of systems and set up systems infrastrucutre using AI and Agents that will automate and speed up this process massively for any hedge fund or organization.
