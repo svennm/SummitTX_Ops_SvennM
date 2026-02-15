@@ -33,3 +33,4 @@ Regulatory & Compliance Support: Play an instrumental role in regulatory filings
 
 
 to show that I can think in terms of systems and set up systems infrastrucutre using AI and Agents that will automate and speed up this process massively for any hedge fund or organization.
+Under the wiki tab you can see the pictures of what this looks like, if you have a hard time running it. It is very easy to upgrade a customize and the speed of work that can be done is incredible.
